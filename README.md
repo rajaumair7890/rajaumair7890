@@ -16,13 +16,21 @@ I'm Umair Abdullah, a self taught Android developer passionate about creating aw
 
 Here are a few of my favorite projects:
 
-- [Notify]: A feature rich notes taking app for your everyday need.
-- [VidCompose]: A Video Player made entirely with Jetpack Compose based on Media 3.
-- [ChatterBox]: A secure private chat app made with jetpack compose and firebase DSL/APIs.
+- ## Notify: A feature rich notes taking app for your everyday need.
+
+![ScreenShot](/NotifyCover.png)
+
+- ## VidCompose: A Video Player made entirely with Jetpack Compose based on Media 3.
+
+![ScreenShot](/VidComposeCoverCompressed.png)
+
+- ## ChatterBox: A secure private chat app made with jetpack compose and firebase DSL/APIs.
+
+![ScreenShot](/ChatterBoxCover1.png)
 
 ## Let's Connect!
 
-I love collaborating with other developers and learning from the community. Feel free to reach out to me on #Email codingwithumair.buisness@gmail.com or visit my #Website https://rajaumair7890.github.io to connect and discuss all things Android development. Let's learn and grow together!
+I love collaborating with other developers and learning from the community. Feel free to reach out to me on # Email codingwithumair.buisness@gmail.com or visit my # Website https://rajaumair7890.github.io to connect and discuss all things Android development. Let's learn and grow together!
 
 
 Thank you for visiting my GitHub profile! I'm excited to share my Android development journey with you. Feel free to explore my repositories and don't hesitate to get in touch. Happy coding! 🚀👨‍💻
