@@ -7,7 +7,7 @@
 I'm Umair Abdullah, a self taught Native Android developer, passionate about creating awesome mobile applications that make people's lives easier and productive.
 With 4+ years of coding expertise, including 2 years in Native Android app development, I specialize in crafting top-notch, high-quality mobile applications. Contributed to the community with several open source Apps to help fellow developers learn and grow.
 
-## Skills:
+## Android Development SkillSet:
 - ✨ Jetpack Compose
 - 📦 Room Database
 - 🤖 Android SDK
