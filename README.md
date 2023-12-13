@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm Umair Abdullah, a self taught Android developer passionate about creating awesome mobile applications that make people's lives easier and more enjoyable. I've created a fair amount of Robust and Scalable Apps, following Industry Standards and best Practices, some of which can be found on my profile as open-source helping the community. I'm constantly exploring the latest trends in mobile development and striving to deliver top-notch user experiences.
+I'm Umair Abdullah, a self taught Native Android developer, passionate about creating awesome mobile applications that make people's lives easier and productive. I've made several Robust and Scalable Apps, following Industry Standards and best Practices, some of which are open-source and can be found on my GitHub helping the community to learn. I'm constantly exploring the latest trends in mobile development and striving to deliver top-notch user experiences
 
 ## What You'll Find Here
 
