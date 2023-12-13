@@ -4,7 +4,27 @@
 
 ## About Me
 
-I'm Umair Abdullah, a self taught Native Android developer, passionate about creating awesome mobile applications that make people's lives easier and productive. I've made several Robust and Scalable Apps, following Industry Standards and best Practices, some of which are open-source and can be found on my GitHub helping the community to learn. I'm constantly exploring the latest trends in mobile development and striving to deliver top-notch user experiences
+I'm Umair Abdullah, a self taught Native Android developer, passionate about creating awesome mobile applications that make people's lives easier and productive.
+With 4+ years of coding expertise, including 2 years in Native Android app development, I specialize in crafting top-notch, high-quality mobile applications. Contributed to the community with several open source Apps to help fellow developers learn and grow.
+
+## Skills:
+- ✨ Jetpack Compose
+- 📦 Room Database
+- 🤖 Android SDK
+- 🚀Android Jetpack: Navigation, ViewModels, WorkManager, DataStore
+- 🏡 Android Lifecycle Components
+- 💻 Kotlin: Standard Library, Flows, Coroutines
+- 📡 MongoDB Realm Database
+- 🔥 Firebase SDK & Cloud Firestore
+- 🎬 Android Media 3
+- 🧬 MVVM: Modern Android Architecture
+- 🏗 Multi-Module Architecture
+- 🌐 RESTful APIs
+- 🔄 Retrofit
+- 🧰 Android Studio
+- 🖼️ Coil image loading library
+
+💡 Let's Collaborate to Turn Your App Ideas into Captivating Reality!
 
 ## What You'll Find Here
 
