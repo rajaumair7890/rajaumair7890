@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm Umair Abdullah, a self taught Native Android developer, passionate about creating awesome mobile applications that make people's lives easier and productive.
+I'm Umair Abdullah, a self taught Native Android developer, passionate about creating awesome mobile applications that make people's life easier and productive.
 With 4+ years of coding expertise, including 2 years in Native Android app development, I specialize in crafting top-notch, high-quality mobile applications. Contributed to the community with several open source Apps to help fellow developers learn and grow.
 
 ## Android Development SkillSet:
@@ -44,7 +44,7 @@ Here are a few of my favorite projects:
 
 ![ScreenShot](/VidComposeCoverCompressed.png)
 
-- ## ChatterBox: A secure private chat app made with jetpack compose and firebase DSL/APIs.
+- ## ChatterBox: A secure private chat app made with jetpack compose and firebase SDK.
 
 ![ScreenShot](/ChatterBoxCover1.png)
 
