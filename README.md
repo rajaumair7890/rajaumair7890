@@ -23,6 +23,7 @@ With 4+ years of coding expertise, including 2 years in Native Android app devel
 - 🔄 Retrofit
 - 🧰 Android Studio
 - 🖼️ Coil image loading library
+- 🧨 Ktor: Backend, Client 
 
 💡 Let's Collaborate to Turn Your App Ideas into Captivating Reality!
 
