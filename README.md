@@ -23,7 +23,14 @@ With 4+ years of coding expertise, including 2 years in Native Android app devel
 - 🔄 Retrofit
 - 🧰 Android Studio
 - 🖼️ Coil image loading library
-- 🧨 Ktor: Backend, Client 
+- 🧨 Ktor: Backend, Client
+
+## Other Skills:
+- 🐍 Python: Pygame, Kivy, Tkinter, PIL, Django
+- 💻 Kotlin Ktor Backend
+- 🍵 Java
+- 🕸️ Kotlin/Js + Compose/html: Kobweb
+- 🌐 Html, CSS, JavaScript
 
 💡 Let's Collaborate to Turn Your App Ideas into Captivating Reality!
 
