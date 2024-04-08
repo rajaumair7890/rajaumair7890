@@ -58,7 +58,7 @@ Here are a few of my favorite projects:
 - # A secure private chat app made with jetpack compose and firebase SDK.
 
 ![ScreenShot](/ChatterBoxCover1.png)
-[(https://github.com/rajaumair7890/ChatterBox/)]
+[ See on GitHub (https://github.com/rajaumair7890/ChatterBox/)]
 
 ## Let's Connect!
 
