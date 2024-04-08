@@ -61,7 +61,8 @@ Here are a few of my favorite projects:
 
 ## Let's Connect!
 
-I love collaborating with other developers and learning from the community. Feel free to reach out to me on # Email codingwithumair.buisness@gmail.com or visit my # Website https://rajaumair7890.github.io to connect and discuss all things Android development. Let's learn and grow together!
+### Email umairabdullah78901@gmail.com
+### Phone/WhatsApp +923355971817
 
 
 Thank you for visiting my GitHub profile! I'm excited to share my Android development journey with you. Feel free to explore my repositories and don't hesitate to get in touch. Happy coding! 🚀👨‍💻
