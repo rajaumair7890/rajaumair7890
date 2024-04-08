@@ -44,21 +44,20 @@ With 4+ years of coding expertise, including 2 years in Native Android app devel
 
 Here are a few of my favorite projects:
 
-- # Notify:
+- # [Notify:](https://github.com/rajaumair7890/Notify/)
 - ## A feature rich notes taking app for your everyday need.
 
 ![ScreenShot](/NotifyCover.png)
 
-- # VidCompose:
+- # [VidCompose:](https://github.com/rajaumair7890/VidCompose/)
 - ## A Video Player made entirely with Jetpack Compose based on Media 3.
 
 ![ScreenShot](/VidComposeCoverCompressed.png)
 
-- # ChatterBox:
+- # [ChatterBox:](https://github.com/rajaumair7890/ChatterBox/)
 - ## A secure private chat app made with jetpack compose and firebase SDK.
 
 ![ScreenShot](/ChatterBoxCover1.png)
-# [Open on GitHub](https://github.com/rajaumair7890/ChatterBox/)
 
 ## Let's Connect!
 
