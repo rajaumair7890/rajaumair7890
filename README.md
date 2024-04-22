@@ -33,12 +33,6 @@ I'm Umair Abdullah, a self taught Native Android developer, With 4+ years of cod
 
 💡 Let's Collaborate to Turn Your App Ideas into Captivating Reality!
 
-## What You'll Find Here
-
-- 📱 Android Apps: Explore my repositories to find a collection of Android applications I've developed. Feel free to check them out, contribute, or provide feedback.
-- 📚 Code Samples: I've shared code snippets and sample projects to help fellow developers learn and grow. Feel free to use them in your own projects!
-- 🧰 Tools and Libraries: Discover some of the handy tools and libraries I've created to simplify common Android development tasks.
-
 ## My Projects
 
 Here are a few of my favorite projects:
