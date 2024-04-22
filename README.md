@@ -33,7 +33,7 @@ I'm Umair Abdullah, a self taught Native Android developer. With 4+ years of cod
 
 💡 Let's Collaborate to Turn Your App Ideas into Captivating Reality!
 
-## My Projects [See All](https://github.com/rajaumair7890?tab=repositories)
+## My Projects [(See All)](https://github.com/rajaumair7890?tab=repositories)
 
 Here are a few of my favorite projects:
 
