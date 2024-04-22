@@ -58,14 +58,13 @@ Here are a few of my favorite projects:
 
 ![ScreenShot](/ChatterBoxCover1.png)
 
-# Open to work!
-# Let's Connect!
+# I'm Open to work so,
+# Let's Connect! 
+# Phone/WhatsApp:- +923355971817
+# Email:- umairabdullah78901@gmail.com
 
 ### For work related queries feel free to contact me.
 ### Let's turn your App ideas into reality!
-
-## Email umairabdullah78901@gmail.com
-## Phone/WhatsApp +923355971817
 
 Thank you for visiting my GitHub profile! I'm excited to share my Android development journey with you. Feel free to explore my repositories and don't hesitate to get in touch. Happy coding! 🚀👨‍💻
 
