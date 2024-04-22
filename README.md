@@ -33,7 +33,7 @@ I'm Umair Abdullah, a self taught Native Android developer. With 4+ years of cod
 
 💡 Let's Collaborate to Turn Your App Ideas into Captivating Reality!
 
-## My Projects
+## My Projects [See All](https://github.com/rajaumair7890?tab=repositories)
 
 Here are a few of my favorite projects:
 
@@ -52,10 +52,10 @@ Here are a few of my favorite projects:
 
 ![ScreenShot](/ChatterBoxCover1.png)
 
-# I'm Open to work so,
-# Let's Connect! 
-# Phone/WhatsApp:- +923355971817
-# Email:- umairabdullah78901@gmail.com
+# 🏋️‍♂️ I'm Open to work so,
+# 😃 Let's Connect!
+# ☎️ Phone/WhatsApp:- +923355971817
+# 📨 Email:- umairabdullah78901@gmail.com
 
 ### For work related queries feel free to contact me.
 ### Let's turn your App ideas into reality!
