@@ -40,17 +40,22 @@ Here are a few of my favorite projects:
 - # [Notify:](https://github.com/rajaumair7890/Notify/)
 - ## A feature rich notes taking app for your everyday need.
 
-![ScreenShot](/NotifyCover.png)
+![ScreenShot](/NotifyCover.webp)
 
 - # [VidCompose:](https://github.com/rajaumair7890/VidCompose/)
 - ## A Video Player made entirely with Jetpack Compose based on Media 3.
 
-![ScreenShot](/VidComposeCoverCompressed.png)
+![ScreenShot](/VidComposeCover.webp)
+
+- # [Darklify:](https://github.com/rajaumair7890/Darklify/)
+- ## A dynamic wallpaper App, which changes your wallpaper accordingly when system dark mode is toggled.
+
+![ScreenShot](/DarklifyCover.webp)
 
 - # [ChatterBox:](https://github.com/rajaumair7890/ChatterBox/)
 - ## A secure private chat app made with jetpack compose and firebase SDK.
 
-![ScreenShot](/ChatterBoxCover1.png)
+![ScreenShot](/ChatterBoxCover1.webp)
 
 # 🏋️‍♂️ I'm Open to work so,
 # 😃 Let's Connect!
