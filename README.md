@@ -4,25 +4,31 @@
 
 ## About Me
 
-I'm Umair Abdullah, a self taught Native Android developer. With 4+ years of coding expertise, including 2 years in Native Android app development, I specialize in crafting top-notch, high-quality mobile applications.
+A Native Android developer with 4+ years of coding expertise, I specialize in crafting top-notch, high-quality mobile applications.
 
 ## Android Development SkillSet:
-- ✨ Jetpack Compose
-- 📦 Room Database
-- 🤖 Android SDK
-- 🚀Android Jetpack: Navigation, ViewModels, WorkManager, DataStore
-- 🏡 Android Lifecycle Components
-- 💻 Kotlin: Standard Library, Flows, Coroutines
-- 📡 MongoDB Realm Database
-- 🔥 Firebase SDK & Cloud Firestore
-- 🎬 Android Media 3
-- 🧬 MVVM: Modern Android Architecture
-- 🏗 Multi-Module Architecture
-- 🌐 RESTful APIs
-- 🔄 Retrofit
-- 🧰 Android Studio
-- 🖼️ Coil image loading library
-- 🧨 Ktor: Backend, Client
+✨ Jetpack Compose
+📽️ LiveKit Android SDK / Compose components
+🎬 Android Media 3: Exoplayer, HLS Adaptive Streaming, MediaSession, MediaSessionService
+📷 Android CameraX
+Ⓜ️ Google ML-kit
+🕸️ Web-Sockets
+⬆️ Tus Resumable upload client: Java/Android
+🎈 Android Foreground/Background Services
+📦 Room Database
+🤖 Android SDK
+🚀Android Jetpack: Navigation, ViewModels, WorkManager, DataStore
+🏡 Android Lifecycle Components
+💻 Kotlin: Standard Library, Flows, Coroutines
+📡 MongoDB Realm Database
+🔥 Firebase SDK & Cloud Firestore
+🧬 MVVM: Modern Android Architecture
+🏗 Multi-Module Architecture
+🌐 RESTful APIs
+🔄 Retrofit
+🔦 Kotlin Ktor client
+🧰 Android Studio
+🖼️ Coil image loading library
 
 ## Other Skills:
 - 🐍 Python: Pygame, Kivy, Tkinter, PIL, Django
