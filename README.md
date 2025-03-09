@@ -3,16 +3,16 @@
 
     import com.github.user.User
  
-    User(
+    class Self(
         name = "Umair Abdullah",
         occupation = "Android Developer",
         age = 24,
         gender = Gender.MALE
-    ).apply {
+    ): User(name, occupation, age, gender){
 
-        this.greet("Hello visitor, Welcome to my github profile")
+        override fun greet(message = "Hello visitor, Welcome to my github profile")
 
-        this.introduce(
+        override fun introduce(
             "I'm ${this.name}, A Native ${this.occupation} with 4+ years of coding expertise," 
                 + " I specialize in crafting top-notch, high-quality mobile applications."
         )
