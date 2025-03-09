@@ -4,7 +4,23 @@
 
 ## About Me
 
-A Native Android developer with 4+ years of coding expertise, I specialize in crafting top-notch, high-quality mobile applications.
+```kotlin
+User(
+            name = "Umair Abdullah",
+            occupation = "Android Developer",
+            age = 24,
+            gender = Gender.MALE
+        ).apply {
+
+            greet("Hello visitor, Welcome to my github profile")
+
+            introduce(
+                "I'm ${this.name}, A Native Android developer with 4+ years of coding expertise," 
+                + " I specialize in crafting top-notch, high-quality mobile applications."
+            )
+        }
+```
+<!--A Native Android developer with 4+ years of coding expertise, I specialize in crafting top-notch, high-quality mobile applications.-->
 
 ## Android Development SkillSet:
 - ✨ Jetpack Compose
