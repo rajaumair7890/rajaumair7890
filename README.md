@@ -3,27 +3,24 @@
 
     import com.github.user.User
  
-    class Self(
-        name: String = "Umair Abdullah",
-        occupation: String = "Android Developer",
-        age: Int = 24,
-        gender: Gender = Gender.MALE
-    ): User(name, occupation, age, gender){
+    class GithubProfile{
 
         init{
-            greet(); introduce()
-        }
-
-        override fun greet(){
-            println("Hello visitor, Welcome to my github profile")
-        }
-
-        override fun introduce(){
-            print(
-                "I'm a Native Android Developer with 4+ years of coding expertise,"
+            val self = User(
+	            name = "Umair Abdullah",
+	            occupation = "Android Developer",
+	            age = 24,
+	            gender = Gender.MALE
+            )
+        
+            self.greet("Hello visitor, Welcome to my github profile")
+        
+            self.introduce(
+                "I'm ${self.name}, A Native ${self.occupation} with 4+ years of coding expertise,"
                     + " I specialize in crafting top-notch, high-quality mobile applications."
             )
         }
+
     }
 ```
 <!--A Native Android developer with 4+ years of coding expertise, I specialize in crafting top-notch, high-quality mobile applications.-->
