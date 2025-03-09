@@ -10,6 +10,7 @@ A Native Android developer with 4+ years of coding expertise, I specialize in cr
 - ✨ Jetpack Compose
 - 📽️ LiveKit Android SDK / Compose components
 - 🎬 Android Media 3: Exoplayer, HLS Adaptive Streaming, MediaSession, MediaSessionService
+- 📃 Paging 3: Paging Compose
 - 📷 Android CameraX
 - Ⓜ️ Google ML-kit
 - 🕸️ Web-Sockets
