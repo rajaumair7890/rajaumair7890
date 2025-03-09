@@ -7,10 +7,10 @@
 
         init{
             val self = User(
-	            name = "Umair Abdullah",
-	            occupation = "Android Developer",
-	            age = 24,
-	            gender = Gender.MALE
+                name = "Umair Abdullah",
+                occupation = "Android Developer",
+                age = 24,
+                gender = Gender.MALE
             )
         
             self.greet("Hello visitor, Welcome to my github profile")
