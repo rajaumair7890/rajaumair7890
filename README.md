@@ -4,21 +4,21 @@
     import com.github.user.User
  
     class Self(
-        name = "Umair Abdullah",
-        occupation = "Android Developer",
-        age = 24,
-        gender = Gender.MALE
+        name: String = "Umair Abdullah",
+        occupation: String = "Android Developer",
+        age: Int = 24,
+        gender: Gender = Gender.MALE
     ): User(name, occupation, age, gender){
 
-        override fun greet(message = "Hello visitor, Welcome to my github profile"){
-            super.greet(message)
+        override fun greet(){
+            println("Hello visitor, Welcome to my github profile")
         }
 
-        override fun introduce(
-            intro = "I'm ${this.name}, A Native ${this.occupation} with 4+ years of coding expertise," 
-                + " I specialize in crafting top-notch, high-quality mobile applications."
-        ){
-            super.introduce(intro)
+        override fun introduce(){
+            print(
+                "I'm ${this.name}, A Native ${this.occupation} with 4+ years of coding expertise,"
+                    + " I specialize in crafting top-notch, high-quality mobile applications."
+            )
         }
     }
 ```
