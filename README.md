@@ -16,7 +16,7 @@
             self.greet("Hello visitor, Welcome to my github profile")
         
             self.introduce(
-                "I'm ${self.name}, A Native ${self.occupation} with 4+ years of coding expertise,"
+                "I'm a Native Android Developer with 4+ years of coding expertise,"
                     + " I specialize in crafting top-notch, high-quality mobile applications."
             )
         }
