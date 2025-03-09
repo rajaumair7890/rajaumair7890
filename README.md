@@ -5,20 +5,18 @@
 ## About Me
 
 ```kotlin
-User(
-            name = "Umair Abdullah",
-            occupation = "Android Developer",
-            age = 24,
-            gender = Gender.MALE
-        ).apply {
-
-            greet("Hello visitor, Welcome to my github profile")
-
-            introduce(
-                "I'm ${this.name}, A Native Android developer with 4+ years of coding expertise," 
+    User(
+        name = "Umair Abdullah",
+        occupation = "Android Developer",
+        age = 24,
+        gender = Gender.MALE
+    ).apply {
+        greet("Hello visitor, Welcome to my github profile")
+        introduce(
+            "I'm ${this.name}, A Native ${this.occupation} with 4+ years of coding expertise," 
                 + " I specialize in crafting top-notch, high-quality mobile applications."
-            )
-        }
+        )
+    }
 ```
 <!--A Native Android developer with 4+ years of coding expertise, I specialize in crafting top-notch, high-quality mobile applications.-->
 
