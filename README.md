@@ -10,12 +10,16 @@
         gender = Gender.MALE
     ): User(name, occupation, age, gender){
 
-        override fun greet(message = "Hello visitor, Welcome to my github profile")
+        override fun greet(message = "Hello visitor, Welcome to my github profile"){
+            super.greet(message)
+        }
 
         override fun introduce(
-            "I'm ${this.name}, A Native ${this.occupation} with 4+ years of coding expertise," 
+            intro = "I'm ${this.name}, A Native ${this.occupation} with 4+ years of coding expertise," 
                 + " I specialize in crafting top-notch, high-quality mobile applications."
-        )
+        ){
+            super.introduce(intro)
+        }
     }
 ```
 <!--A Native Android developer with 4+ years of coding expertise, I specialize in crafting top-notch, high-quality mobile applications.-->
