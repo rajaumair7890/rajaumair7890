@@ -10,9 +10,9 @@
         gender = Gender.MALE
     ).apply {
 
-        greet("Hello visitor, Welcome to my github profile")
+        this.greet("Hello visitor, Welcome to my github profile")
 
-        introduce(
+        this.introduce(
             "I'm ${this.name}, A Native ${this.occupation} with 4+ years of coding expertise," 
                 + " I specialize in crafting top-notch, high-quality mobile applications."
         )
